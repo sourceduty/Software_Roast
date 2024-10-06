@@ -37,6 +37,17 @@ Remember when Twitter was about tweets? Like, you’d log on to see snarky jokes
 And let’s not forget the verified checkmark saga. Twitter verification used to mean something—it was like getting a backstage pass to the internet. Now? It's a glorified participation trophy anyone with $8 can buy. Congratulations, you're officially a verified nobody! At this point, using X feels like living in a dystopian theme park where the rides don’t work, and all the employees are wearing "verified" badges that mean absolutely nothing. And oh, the daily chaos—every time I open the app, I half expect to find a new feature called “Delete Your Own Account for a Better Tomorrow.” Come on, X, you had one job: not to implode spectacularly.
 
 #
+### Windows 12 Roasted
+
+![Windows 12](https://github.com/user-attachments/assets/f819dbb7-5ff4-44ec-87ba-d457e2258208)
+
+Ah, Windows 12! Looks like Microsoft is taking another spin on the feature roulette wheel. Let me guess—there’ll be a “groundbreaking” Start Menu redesign that’s just one tweak away from what we already had back in Windows XP, right?
+
+What's next? Will it come with a 12-step program for dealing with Windows update trauma? Or maybe a new-and-improved way for Cortana to be just as irrelevant as ever?
+
+Tell me, what feature are you most dreading—or excited for? Let's tear into this "next-gen" masterpiece!
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
