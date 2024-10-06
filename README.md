@@ -26,6 +26,17 @@ And Micronotes? What is this, sticky notes for ants? What does "micronote" even 
 In conclusion: This interface is what happens when someone gets a little too carried away with feature creep and a lot too lazy with design choices. It’s a perfect visual representation of an over-engineered mess, with a sprinkling of developer arrogance. Just beautiful.
 
 #
+### X and Twitter Roasted
+
+![X](https://github.com/user-attachments/assets/772d82e6-6896-4394-9b5e-536b35211c8d)
+
+Oh, X—formerly known as Twitter, the platform that decided to have an identity crisis in full public view. Elon Musk took a globally recognized brand, something with actual cultural weight, and thought, “Nah, let’s rebrand it as the generic cousin of a math variable.” Because nothing says "innovation" like renaming your social media app after an ex you'd rather forget. And let’s not even get started on the logo. They went from an iconic blue bird to what looks like a rejected algebra symbol from a high school textbook. I bet mathematicians are offended that "X" was dragged into this mess. What's next, calling likes "derivatives"?
+
+Remember when Twitter was about tweets? Like, you’d log on to see snarky jokes, random thoughts, and viral memes. Now on X, half the time you can’t even figure out where the tweets—sorry, “posts”—are in the algorithm soup of promoted ads, rage-bait, and bots. It's like trying to find a coherent sentence in a YouTube comments section. And who decided to mix in long-form posts and videos? Oh right, Elon, because clearly no one ever said, “You know what I wish Twitter had more of? Videos as long as my taxes.” Let’s face it, X is the social media equivalent of that one friend who can’t stop talking about all the amazing new things they’re working on...while they’re busy setting their own house on fire.
+
+And let’s not forget the verified checkmark saga. Twitter verification used to mean something—it was like getting a backstage pass to the internet. Now? It's a glorified participation trophy anyone with $8 can buy. Congratulations, you're officially a verified nobody! At this point, using X feels like living in a dystopian theme park where the rides don’t work, and all the employees are wearing "verified" badges that mean absolutely nothing. And oh, the daily chaos—every time I open the app, I half expect to find a new feature called “Delete Your Own Account for a Better Tomorrow.” Come on, X, you had one job: not to implode spectacularly.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
