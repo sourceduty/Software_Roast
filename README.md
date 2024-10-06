@@ -48,6 +48,23 @@ What's next? Will it come with a 12-step program for dealing with Windows update
 Tell me, what feature are you most dreading—or excited for? Let's tear into this "next-gen" masterpiece!
 
 #
+### Python Dashboard Roasted
+
+![Dashboard](https://github.com/user-attachments/assets/b41eb256-90df-47d7-9891-fe62d79e625f)
+
+Ah, this dashboard looks like it fell straight out of an 80s sci-fi movie, doesn't it? With the glow-in-the-dark neon vibes, I'm half-expecting Tron to pop up and challenge me to a light cycle race.
+
+Let's start with the first glaring design feature—or should I say, lack of feature? The CPU usage bar is proudly displaying 34%, like it's some sort of badge of honor. But let's face it, nobody is impressed when your task manager is stuck in the past with static numbers, and don't even get me started on that RAM at 70%. Is this dashboard about to crash, or is it just showing off how much memory it's hoarding? I don't know what you're running, but with this kind of resource greed, it looks like a Chrome tab marathon gone wrong.
+
+Now, for the pièce de résistance: the C: Drive. "100% full!" it says. But not a warning in sight, no gentle nudge to clean out the trash. It's basically telling you, "Yup, you're doomed, but hey, I'm just here for the aesthetic." It's like driving a car with the fuel tank empty, but the dashboard is too busy showing you what color the car is painted.
+
+And let’s not overlook that black hole of a text area in the middle, where presumably some kind of log or diagnostics should go. It's as barren as a desert. What exactly is it waiting for? A flood of error messages? A dramatic system failure perhaps?
+
+Finally, let's give a shoutout to the buttons. They're placed like an afterthought, all lined up like bored soldiers. “New,” “Save,” “Load,” “Clear”… classic file operations, but with the personality of a toaster manual. Where’s the flair? The innovation? Oh wait, I forgot—this dashboard lives in the past where being practical means sucking the joy out of user experience.
+
+Tell me, what do you want to do with this glowing relic? Are we here to fix it, mock it, or both?
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
