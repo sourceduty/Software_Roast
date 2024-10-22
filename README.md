@@ -70,6 +70,8 @@ Tell me, what do you want to do with this glowing relic? Are we here to fix it, 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Vehicle Roast](https://github.com/sourceduty/Vehicle_Roast)
+<br>
+[Stupidity Rating](https://github.com/sourceduty/Stupidity_Rating)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
